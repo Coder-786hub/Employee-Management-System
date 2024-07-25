@@ -51,7 +51,8 @@ login_page.png, employee_management.png: Screenshots of the application.
 
 ##License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ##Acknowledgements
 
