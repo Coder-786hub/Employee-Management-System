@@ -3,7 +3,8 @@
 This is a comprehensive Employee Management System developed using Python and Tkinter with MySQL for database management. It allows users to manage employee records, including adding, updating, deleting, and searching for employees. The system features a user-friendly graphical interface for easy interaction.
 
 ##Screenshots
-
+![Login Page](login.png)
+![main field](mainfield.png)
 
 ##Features
 
