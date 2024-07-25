@@ -2,11 +2,12 @@
 
 This is a comprehensive Employee Management System developed using Python and Tkinter with MySQL for database management. It allows users to manage employee records, including adding, updating, deleting, and searching for employees. The system features a user-friendly graphical interface for easy interaction.
 
-##Screenshots
+## Screenshots
+
 ![Login Page](login.png)
 ![main field](mainfiled.png)
 
-##Features
+## Features
 
 User authentication with login functionality.
 Add, update, delete, and search employee records.
@@ -14,19 +15,20 @@ View all employee records in a table.
 Delete all records with a single click.
 Responsive interface with real-time updates.
 
-##Installation
- 1 Clone the repository:
+## Installation
 
-git clone https://github.com/Coder-786hub/Employee-Management-System.git
+1. Clone the repository:
 
-##Change into the project directory:
+'''git clone https://github.com/Coder-786hub/Employee-Management-System.git'''
 
-cd Employee-Management-System
+2. Change into the project directory:
 
-##Install the required Python packages:
+'''cd Employee-Management-System'''
+
+3. Install the required Python packages:
 
 
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 ##Ensure MySQL is installed and running. Replace 'your_password' in database.py with your MySQL root password.
 
@@ -34,27 +36,28 @@ pip install -r requirements.txt
 
 
 python database.py
-Running the Application
-Run the main application script:
 
 
-python main.py
+## Running the Application
 
-###The application window will appear. Use the login credentials to access the employee management interface.
 
-##Files
+1. python main.py
+
+2. The application window will appear. Use the login credentials to access the employee management interface.
+3. 
+## Files
 
 main.py: The main Python script for the application with the login and main interface.
 database.py: Script for creating the database and tables and handling CRUD operations.
 requirements.txt: List of required Python packages.
 login_page.png, employee_management.png: Screenshots of the application.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-##Acknowledgements
+## Acknowledgements
 
 MySQL for database management.
 Tkinter for the graphical user interface.
