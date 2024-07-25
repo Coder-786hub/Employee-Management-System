@@ -4,7 +4,7 @@ This is a comprehensive Employee Management System developed using Python and Tk
 
 ##Screenshots
 ![Login Page](login.png)
-![main field](mainfield.png)
+![main field](mainfiled.png)
 
 ##Features
 
